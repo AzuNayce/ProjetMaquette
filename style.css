@@ -1,5 +1,7 @@
 img{
     margin-bottom: 20px;
+    width: 260px;
+    height: 195px;
 }
 .nav-link{
     color: white;
@@ -9,13 +11,34 @@ img{
     color: #d0a203;
 }
 .title{
-    font-size: 120px;
     color: #d0a203;
+
 }
-.stitle{
-    font-size: 15px;
-    color: #d0a203;
-}
+
 header{
     background-color: black;
 }
+
+body{
+    background-image: url("images/bg.jpg");
+    width: 1020px;
+}
+.fondblanc{
+    background-color: white;
+}
+.fondblack{
+    background-color: black;
+    height: 260px;
+}
+.nav{
+    height: 60px;
+}
+h1{
+    font-size: 120px;
+}
+.csize{
+    width: 260px;
+    height: 480px;
+}
+
+
